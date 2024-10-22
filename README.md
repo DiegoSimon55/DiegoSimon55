@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Diego Simon 👋
 
-- 🔭 Atualmente não trabalho na área de TI, trabalho no setor industriário e estou em busca da minha migração para TI
+- 🔭 Atualmente estou em transição de carreira para área de Dados
 - 🌱 Estou aprendendo no momento Python
 - 📫 Contate-me no email: diegosimon55@gmail.com
 - 😄 Pronome: Ele/dele
